@@ -10,6 +10,7 @@ add_executable(PersonaVox
     src/main.cpp
     src/AudioEngine.cpp
     src/VoiceEffect.cpp
+    src/PersonaUI.cpp
     
     # ImGui Core (Çekirdek Dosyalar)
     vendor/imgui/imgui.cpp
