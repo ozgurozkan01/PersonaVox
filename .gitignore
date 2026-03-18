@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+# Custom Files Created
+build/
+*.ini
+.DS_Store
+notes
